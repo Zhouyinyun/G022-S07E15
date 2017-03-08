@@ -1,7 +1,7 @@
 # G022-S07E15
 ## Good Chinese S07E15 G022
 
-小组作业S07E15
+### 小组作业S07E15
 
 以小组为单位完成作业，（自由组合，每组人数不超过5人，任何同组过的两个人不得再同组）。
 
@@ -12,12 +12,12 @@
 用乔治·奥威尔4+2个问题（G4+2）进行检查：
 
 4个基本问题：
+* 我到底想要说什么？What am I trying to say?
+* 用什么词能表达？What words will express it?
+* 用什么画面或短语能让表达更清楚？What image or idiom will make it clearer?
+* 这个画面是否足够新鲜，能够达到效果？Is this image fresh enough to have the effect?
 
- 我到底想要说什么？What am I trying to say?
- 用什么词能表达？What words will express it?
- 用什么画面或短语能让表达更清楚？What image or idiom will make it clearer?
- 这个画面是否足够新鲜，能够达到效果？Is this image fresh enough to have the effect?
 2个追加问题：
 
- 我能不能写得更简洁？Could I put it more shortly?
- 我写得较丑的文字中，有没有可以避免的？Have I said anything that is avoidably ugly?
+* 我能不能写得更简洁？Could I put it more shortly?
+* 我写得较丑的文字中，有没有可以避免的？Have I said anything that is avoidably ugly?
