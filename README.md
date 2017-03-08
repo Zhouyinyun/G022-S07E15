@@ -1,8 +1,5 @@
 # G022-S07E15
-Good Chinese S07E15 G022
-S07E15G89
-
-《好中文的样子》S07E15 Group 022
+## Good Chinese S07E15 G022
 
 小组作业S07E15
 
